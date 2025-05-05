@@ -1,0 +1,27 @@
+
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #f3f3f3;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .App {
+    max-width: 600px;
+    width: 100%;
+  }  
+
+.puzzle-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+    margin-bottom: 1px;
+    padding: 20px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    font-size: 22px;  
+  }
